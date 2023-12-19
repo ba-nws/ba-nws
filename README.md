@@ -1,5 +1,5 @@
 - 👋 Salut moi c'est Billel 
-- 👀 Je syus étudiant à la Normandie Web School  
+- 👀 Je suis étudiant à la Normandie Web School  
 - 🌱 Passionné de musculation, de Muai Thaï et d'histoire
 - 💞️ Futur développeur web
 
